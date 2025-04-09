@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Practical_16.Controllers.HelloWorldController",
+    "Method": "Get",
+    "RelativePath": "HelloWorld",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
