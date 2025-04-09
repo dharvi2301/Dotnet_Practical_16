@@ -44,4 +44,10 @@ public class HelloWorldController : ControllerBase
 ```charp
 _logger.LogInformation("HelloWorldController.Get was called");
 ```
+### Below is the Output for the above Practical of Hello World API.
+![image](https://github.com/user-attachments/assets/10c5bdb8-82cc-4438-93d0-432f6fb27b26)
+
+![image](https://github.com/user-attachments/assets/5ee5ea67-8fa6-45bc-beaa-88022a81455c)
+
+
 
