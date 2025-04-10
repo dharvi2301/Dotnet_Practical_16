@@ -16,6 +16,16 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+// Simple endpoint with logging
+app.MapGet("/hello", (ILogger<Program> logger) =>
+{
+    logger.LogInformation("Hello endpoint was called");
+    return "Hello World!";
+});
+
+// Log application start
+app.Logger.LogInformation("Application starting...");//Middleware Components
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

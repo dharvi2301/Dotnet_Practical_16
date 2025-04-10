@@ -14,7 +14,6 @@ namespace Practical_16.Controllers
         }
 
         [HttpGet]
-        
         public IActionResult Get()
         {
             _logger.LogInformation("Controller - HelloWorld \n\tActionMetod - Get Method called");

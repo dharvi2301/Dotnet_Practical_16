@@ -16,6 +16,25 @@
           }
         }
       }
+    },
+    "/hello": {
+      "get": {
+        "tags": [
+          "Practical_16"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "components": { }

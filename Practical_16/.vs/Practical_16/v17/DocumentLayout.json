@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_16\\Practical_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76D006B6-D261-477A-8D0A-8B8F6883DB52}|Practical_16\\Practical_16.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_16\\practical_16\\practical_16\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D006B6-D261-477A-8D0A-8B8F6883DB52}|Practical_16\\Practical_16.csproj|solutionrelative:practical_16\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D006B6-D261-477A-8D0A-8B8F6883DB52}|Practical_16\\Practical_16.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_16\\practical_16\\practical_16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D006B6-D261-477A-8D0A-8B8F6883DB52}|Practical_16\\Practical_16.csproj|solutionrelative:practical_16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D006B6-D261-477A-8D0A-8B8F6883DB52}|Practical_16\\Practical_16.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_16\\practical_16\\practical_16\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76D006B6-D261-477A-8D0A-8B8F6883DB52}|Practical_16\\Practical_16.csproj|solutionrelative:practical_16\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_16\\Practical_16\\Practical_16\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Practical_16\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_16\\Practical_16\\Practical_16\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Practical_16\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:02:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_16\\Practical_16\\Practical_16\\appsettings.json",
+              "RelativeDocumentMoniker": "Practical_16\\appsettings.json",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_16\\Practical_16\\Practical_16\\appsettings.json",
+              "RelativeToolTip": "Practical_16\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T06:00:15.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_16\\Practical_16\\Practical_16\\Program.cs",
+              "RelativeDocumentMoniker": "Practical_16\\Program.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_16\\Practical_16\\Practical_16\\Program.cs",
+              "RelativeToolTip": "Practical_16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:00:11.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
